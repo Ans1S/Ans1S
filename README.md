@@ -1,4 +1,3 @@
-## 🔧 What I Do
 I turn ideas into production-ready hardware. From recycling vape batteries into IoT sensors, to designing power supplies from scratch, to automating manufacturing lines — building complete systems from concept to deployment.
 
 ## 🚀 Featured Projects
