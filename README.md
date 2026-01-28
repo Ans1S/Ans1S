@@ -1,9 +1,5 @@
-# Ansi — Embedded Systems & Power Electronics Engineer
-
-**Building intelligent hardware solutions from concept to production.**
-
 ## 🔧 What I Do
-Designing and implementing complete systems: PCB design in KiCad, firmware development (STM32, ESP32, Raspberry Pi), automation, and production-grade testing infrastructure.
+Full-stack hardware development from concept to production: PCB design (KiCad prototype → manufacturing), embedded firmware (STM32, ESP32, Raspberry Pi), digital power electronics, ultra-low-power wireless IoT (ESP-NOW), Python automation with HMI, and automated test systems with database traceability.
 
 ## 🚀 Featured Projects
 
@@ -20,8 +16,4 @@ Designing and implementing complete systems: PCB design in KiCad, firmware devel
 ✅ 6 specialized testers | 📊 MySQL traceability | 📱 QR-code integration | 🎯 ±2% measurement accuracy
 
 ## 💡 Core Skills
-Embedded C/C++ • Python • KiCad PCB Design • Power Electronics • Industrial Automation • IoT • Real-Time Systems
-
----
-
-📍 Germany | 🔗 Open to collaboration on embedded systems and hardware projects
+Embedded C/C++ (STM32, ESP32, Raspberry Pi) • Python Automation • KiCad PCB Design • Power Electronics & SMPS • Low-Power IoT & Wireless • GUI Development (Kivy, HMI) • Database Integration (MySQL) • Test Automation • Git Version Control • Requirements Engineering • EMC Compliance • Design for Manufacturing • Production-Ready Systems
