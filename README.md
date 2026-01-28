@@ -10,5 +10,5 @@ I turn ideas into production-ready hardware. From recycling vape batteries into 
 
 **[Power-Electronics-Tester](https://github.com/Ans1S/Power-Electronics-Tester)** — Production test infrastructure with 6 specialized testers, MySQL traceability, QR-code integration
 
-## 💡 Core Skills
-Embedded C/C++ (STM32, ESP32, "Raspberry Pi") • Python Automation • KiCad PCB Design • Power Electronics & SMPS • Low-Power IoT & Wireless • GUI Development (Kivy, HMI) • Database Integration (MySQL) • Test Automation • EMC Compliance • Design for Manufacturing
+**Digital Current Control for Proportional Solenoid Valves** — High-precision digital output stage with PI/PID, hysteresis, and model-predictive control strategies for proportional solenoid valves
+
