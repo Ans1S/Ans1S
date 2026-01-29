@@ -2,7 +2,7 @@ I turn ideas into production-ready hardware. From recycling vape batteries into 
 
 ## 🚀 Featured Projects
 
-📡 **[esp32-c3-iot-sensor-board](https://github.com/Ans1S/esp32-c3-iot-sensor-board)** — Ultra-low-power IoT sensor network with recycled vape batteries
+📡 **[esp32-c3-iot-sensor-board](https://github.com/Ans1S/esp32-c3-iot-sensor-board)** — Low-power IoT sensor network with recycled vape batteries
 
 ⚡ **[Digital-Flyback-Converter](https://github.com/Ans1S/Digital-Flyback-Converter)** — Bachelor thesis: 15W CCCV power supply with STM32 digital control
 
