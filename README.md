@@ -10,5 +10,5 @@ I turn ideas into production-ready hardware. From recycling vape batteries into 
 
 🧪 **[Power-Electronics-Tester](https://github.com/Ans1S/Power-Electronics-Tester)** — Production test infrastructure with 6 specialized testers, MySQL traceability, QR-code integration
 
-🧲 **Digital-Solenoid-Controller** — Master thesis: High-precision proportional solenoid driver
+🧲 **[Digital-Solenoid-Controller](https://github.com/Ans1S/digital-proportional-solenoid-driver)** — Master thesis: High-precision proportional solenoid driver
 
